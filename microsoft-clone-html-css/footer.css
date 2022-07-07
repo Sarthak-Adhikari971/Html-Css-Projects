@@ -1,0 +1,74 @@
+.footer-section-1{
+    display: flex;
+    background-color:rgb(242,242,242);
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: 8px;
+    font-family: roboto,arial;
+    font-weight: 200;
+    font-size: small;
+
+ }
+ .footer-subsection-1{
+    display: flex;
+    
+    margin-left: 210px;
+    
+ }
+ .footer-subsection-2{
+    display: flex ;
+    
+    margin-left: 167.5689px;
+ }
+ .footer-subsection-1:hover ,
+ .footer-subsection-2:hover{
+    cursor: pointer;
+ }
+
+ /* final footer here */
+    
+ .footer-final{
+    display: flex;
+    background-color: rgb(242,242,242);
+    margin-left:-8px ;
+    margin-right: -8px;
+    height: 80px;
+
+}
+.footer-final-subsection{
+    display: flex;
+    margin-left: 210px;
+    width: 1481px;
+    height: 80px;
+    background-color:rgb(242,242,242);
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: roboto,arial;
+    font-weight: 200;
+    font-size: small;
+}
+.earth-and-english{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: roboto,arial;
+    cursor: pointer;
+
+}
+.earth-logo{
+    width: 28px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.other-footers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 2px;
+    
+}
+.other-footers:hover{
+    opacity: 75%;
+    cursor: pointer;
+}

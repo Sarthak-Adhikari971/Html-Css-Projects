@@ -1,0 +1,140 @@
+.header{
+    margin-top: 20px;
+    display: flex;
+    
+    justify-content: space-between;
+
+} 
+.microsoft-logo{
+    width:150px ;
+    margin-left: 200px;
+    justify-content: center;
+}
+.header-left{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    
+}
+.Pipe{
+ 
+    margin-left:35px;
+    margin-right: 35px;   
+    font-family: roboto,arial;
+    font-size: 25px;         
+    
+}
+.menu-left{
+    display: flex;
+    
+    
+    justify-content: space-between;
+    
+    
+    
+}
+.menu-items{
+    
+    font-family: roboto,arial;
+    align-items: center;
+    margin-right: 20px;
+    margin-top: 4px;
+    font-weight: 400;
+
+}
+.arrow {
+    border: solid rgb(141, 141, 141);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-left: 1px;
+    margin-bottom: 2px;
+}
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+.header-right{
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+}
+.menu-right{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 200px;
+
+    
+
+}
+.menu-items-r{
+
+    display: flex;
+    align-items: center;
+    
+    
+    font-family: roboto,arial;
+    margin-right: 20px;
+    font-weight: 400;
+    margin-top: 4px;
+
+
+}
+.all-microsoft-word{
+    margin-right: 4px;
+}
+
+.menu-items-search{
+    display: flex;
+    align-items: center;
+    font-family: roboto,arial;
+    margin-right: 20px;
+    font-weight: 400;
+    margin-top: 3px;
+}   
+
+.search-icon{
+    width: 20px;
+    margin-left: 2px;
+    
+
+}
+.menu-items-cart{
+    display: flex;
+    align-items: center;
+    font-family: roboto,arial;
+    margin-right: 20px;
+    font-weight: 400;
+    
+
+}
+.cart-word{
+    margin-top: 4px;
+}
+.cart-icon{
+    width: 18px;
+    
+    margin-left: 3px;
+}
+.menu-items-profile{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: roboto,arial;
+    margin-right: 20px;
+    font-weight: 400;
+    margin-top: 1px;
+
+}
+
+.profile-icon{
+width: 25px;
+margin-left: 3px;
+
+
+
+}
